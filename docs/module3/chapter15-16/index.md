@@ -4,7 +4,7 @@ nav:
   order: 30
 group:
   title: MySQL基础
-  order: 40
+  order: 10
 title: 总览
 order: 0
 ---
@@ -36,5 +36,5 @@ order: 0
 
 ## SQL基本函数
 
-<img src="/Users/wuxiao/Library/Application Support/typora-user-images/image-20210618130427882.png" alt="image-20210618130427882" style="zoom:50%;" />
+<img src="https://wsk-mweb.oss-cn-hangzhou.aliyuncs.com/ipic/2021-06-18-050435.png" alt="image-20210618130427882" style="zoom:50%;" />
 
